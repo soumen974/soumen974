@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumen974&label=Profile%20views&color=0e75b6&style=flat" alt="soumen974" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumen974" alt="soumen974" /></a> </p>
+<p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=soumen974" alt="soumen974" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/soumen81845556" target="blank"><img src="https://img.shields.io/twitter/follow/soumen81845556?logo=twitter&style=for-the-badge" alt="soumen81845556" /></a> </p>
 
